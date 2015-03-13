@@ -9,7 +9,7 @@ If you would like to contribute, please:
 1. Make a fork of the repository.
 2. Create a new branch regarding your contribution.
 3. Edit the `index.html` file and add your company logo.
-4. Commit the changes.
+4. Make sure your branch contains the latest changes (or `rebase` if you have to) and oaommit the changes.
 5. Send the pull request.
 6. Done!
 
