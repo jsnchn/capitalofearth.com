@@ -17,6 +17,7 @@ If you would like to contribute, please:
 Many thanks to our beloved community for contributing!
 
 **Daryl Yeo** [ [GitHub](https://github.com/Doppp) - [Twitter](https://twitter.com/Doppp) - [Blog](http://darylyeo.com/) ]
+
 **Jason Chen** [ [GitHub](https://github.com/jsnchn) - [Twitter](https://twitter.com/jsnchn) - [Website](http://jsnchn.com/) ]
 
 # License
